@@ -37,8 +37,8 @@ $(window).scroll(function() {
 
 
 	var cAudio = new Audio('Assets/Cloud 9.mp3');
-    var sAudio = new Audio('Assets/Stay With Me.mp3'); 
-    var aAudio = new Audio('Assets/All I Need.mp3');
+    var sAudio = new Audio('Assets/StayWithMe.mp3'); 
+    var aAudio = new Audio('Assets/AllINeed.mp3');
 
      function myAudioFunction(songc) {
 
