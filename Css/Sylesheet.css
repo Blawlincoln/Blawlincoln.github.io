@@ -133,18 +133,18 @@ z-index: 2;
   padding: 14px;
   text-decoration: none;
 }
-@media only screen and (min-width: 40em) {
+@media only screen and (max-width:40em) {
   #stayp{
-    width: 25%;
-    height: 15%
+    width: 22vw;
+    height: 22vw;
   }
   #cloudp{
-    width: 25%;
-    height: 15%
+    width: 22vw;
+    height: 22vw;
   }
   #allp{
-    width: 25%;
-    height: 15%
+    width: 22vw;
+    height: 22vw;
   }
   
 }
